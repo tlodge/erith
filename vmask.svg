@@ -5,7 +5,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <mask id="c1" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
-      <circle id="circle" cx="320" cy="220" r="220" fill="white"/>
+      <circle id="circle" cx="320" cy="240" r="220" fill="white"/>
+    </mask>
+     <mask id="c2" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <circle id="circle" cx="470" cy="290" r="293" fill="white"/>
+    </mask>
+    <mask id="c3" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse">
+      <circle id="circle" cx="520" cy="340" r="220" fill="white"/>
     </mask>
   </defs>
   <use xlink:href="#circle"/>
